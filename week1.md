@@ -21,3 +21,29 @@ For images: Dimensions, Width, Height, Horizontal Resolution, Vertical resolutio
 For Applications: Compatibility, Copyright, Language, Version, Previous Versions, Signatures.
 For Audio/Video: Length, Frame Width, Resolution, Aspect Ratio, Data Rate, Bit Rate, Channels, Sample Rate.
 
+        .-~~\
+           /     \ _
+           ~x   .-~_)_
+             ~x".-~   ~-.
+         _   ( /         \   _
+         ||   T  o  o     Y  ||
+       ==:l   l   <       !  I;==
+          \\   \  .__/   /  //
+           \\ ,r"-,___.-'r.//
+            }^ \.( )   _.'//.
+           /    }~Xi--~  //  \
+          Y    Y I\ \    "    Y
+          |    | |o\ \        |
+          |    l_l  Y T       |  -Row
+          l      "o l_j       !
+           \                 /
+    ___,.---^.     o       .^---.._____
+"~~~          "           ~            ~~~"
+
+
+
+
+ |"|")/"\<""|"\ /  "|"| ||_"   <"|\ |/"\|  ||\/||\ |\ |   | /|"|"
+ |"|"\\_/_> |  |    | |"||_    _>| \|\_/|/\||  ||"\| \|   |"\| |
+ """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+
